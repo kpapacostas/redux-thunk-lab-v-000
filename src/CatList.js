@@ -10,6 +10,9 @@ class CatList extends React.Component {
       <div>
         {this.listCats()}
       </div>
+      <div>
+        {this.props.
+      </div>
     )
   }
 }
